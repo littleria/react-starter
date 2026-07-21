@@ -18,3 +18,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added type hints to helper functions
 - Added CONTRIBUTING.md stub
 - Resolved deprecation warnings
+
+## 2026-07-22
+- Cleaned up old debug logs
+- Consolidated duplicate helper functions
