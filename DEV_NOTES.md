@@ -32,3 +32,8 @@ Personal development log — notes, findings, and ongoing work.
 - Wrote notes on upcoming feature design
 - Addressed feedback from self code review
 - Removed unused variable declarations
+
+## 2026-07-29
+- Reorganised test fixtures
+- Investigated performance bottleneck, noted findings
+- Added .editorconfig for consistent formatting
