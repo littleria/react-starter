@@ -22,3 +22,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-07-22
 - Cleaned up old debug logs
 - Consolidated duplicate helper functions
+
+## 2026-07-29
+- Ran linter, applied auto-fixes
+- Pinned dependency versions for reproducibility
+- Added inline documentation for core functions
