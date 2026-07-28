@@ -27,3 +27,8 @@ Personal development log — notes, findings, and ongoing work.
 - Ran linter, applied auto-fixes
 - Pinned dependency versions for reproducibility
 - Added inline documentation for core functions
+
+## 2026-07-29
+- Wrote notes on upcoming feature design
+- Addressed feedback from self code review
+- Removed unused variable declarations
