@@ -42,3 +42,8 @@ Personal development log — notes, findings, and ongoing work.
 - Updated dependencies to latest stable versions
 - Verified API endpoint response schema
 - Added basic retry logic for network requests
+
+## 2026-09-16
+- Reorganised test fixtures
+- Fixed off-by-one error in loop
+- Cleaned up old debug logs
