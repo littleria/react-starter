@@ -47,3 +47,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reorganised test fixtures
 - Fixed off-by-one error in loop
 - Cleaned up old debug logs
+
+## 2026-09-16
+- Wrote notes on upcoming feature design
+- Added healthcheck endpoint stub
