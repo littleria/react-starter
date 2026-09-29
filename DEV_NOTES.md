@@ -51,3 +51,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-09-16
 - Wrote notes on upcoming feature design
 - Added healthcheck endpoint stub
+
+## 2026-09-30
+- Added basic retry logic for network requests
+- Added type hints to helper functions
