@@ -55,3 +55,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-09-30
 - Added basic retry logic for network requests
 - Added type hints to helper functions
+
+## 2026-09-30
+- Added basic usage examples to README
+- Investigated performance bottleneck, noted findings
