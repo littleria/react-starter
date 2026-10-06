@@ -66,3 +66,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-10-07
 - Updated license year
+
+## 2026-10-07
+- Drafted initial implementation plan for v2
+- Noted known limitation in docs
