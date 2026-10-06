@@ -63,3 +63,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-09-30
 - Fixed minor edge case in input handling
 - Refactored module structure for clarity
+
+## 2026-10-07
+- Updated license year
