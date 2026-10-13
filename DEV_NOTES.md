@@ -70,3 +70,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-10-07
 - Drafted initial implementation plan for v2
 - Noted known limitation in docs
+
+## 2026-10-14
+- Investigated performance bottleneck, noted findings
+- Cleaned up old debug logs
