@@ -79,3 +79,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added .editorconfig for consistent formatting
 - Removed unused variable declarations
 - Cleaned up old debug logs
+
+## 2026-10-21
+- Added basic retry logic for network requests
+- Added CONTRIBUTING.md stub
+- Checked for memory leaks in long-running path
