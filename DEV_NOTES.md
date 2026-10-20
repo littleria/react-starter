@@ -74,3 +74,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-10-14
 - Investigated performance bottleneck, noted findings
 - Cleaned up old debug logs
+
+## 2026-10-21
+- Added .editorconfig for consistent formatting
+- Removed unused variable declarations
+- Cleaned up old debug logs
