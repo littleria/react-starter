@@ -87,3 +87,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-10-21
 - Reviewed codebase, identified areas for improvement
+
+## 2026-10-28
+- Pinned dependency versions for reproducibility
+- Checked for memory leaks in long-running path
+- Refactored module structure for clarity
