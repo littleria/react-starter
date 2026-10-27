@@ -92,3 +92,6 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Checked for memory leaks in long-running path
 - Refactored module structure for clarity
+
+## 2026-10-28
+- Fixed off-by-one error in loop
