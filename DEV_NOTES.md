@@ -95,3 +95,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-10-28
 - Fixed off-by-one error in loop
+
+## 2026-10-28
+- Verified compatibility with latest runtime version
